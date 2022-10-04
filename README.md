@@ -1,0 +1,2 @@
+# CPUparalela
+Aprovechando CPU Inictel
